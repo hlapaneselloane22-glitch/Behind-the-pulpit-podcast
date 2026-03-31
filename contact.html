@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Behind the Pulpit</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container nav-container">
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="episodes.html">Episodes</a>
+                <a href="hosts.html">Hosts</a>
+                <a href="contact.html" class="active">Contact</a>
+            </nav>
+            <a href="index.html" class="logo"><img src="./../images/THE PULPIT LOGO.jpeg" alt="The Pulpit Logo" style="height: 50px; width: auto;"></a>
+        </div>
+    </header>
+
+    <main class="container section-padding" style="margin-top: 80px; max-width: 600px;">
+        <h1>Get In Touch</h1>
+        <p style="margin-bottom: 30px; color: var(--text-secondary);">Have a story idea? Want to guest? Send us a message.</p>
+        
+        <form id="contactForm" style="display: flex; flex-direction: column; gap: 20px;">
+            <input type="text" id="name" placeholder="Full Name" style="padding: 15px; background: #1e1e1e; border: 1px solid #2a2a2a; color: white;">
+            <input type="email" id="email" placeholder="Email Address" style="padding: 15px; background: #1e1e1e; border: 1px solid #2a2a2a; color: white;">
+            <textarea placeholder="Your Message" rows="5" style="padding: 15px; background: #1e1e1e; border: 1px solid #2a2a2a; color: white;"></textarea>
+            <button type="submit" class="btn btn-primary">Send Message</button>
+        </form>
+    </main>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

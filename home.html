@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episode Detail | Behind the Pulpit</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .detail-header { background: var(--bg-secondary); padding: 120px 0 60px; border-bottom: 1px solid var(--border); }
+        .show-notes { display: grid; grid-template-columns: 2fr 1fr; gap: 50px; margin-top: 60px; }
+        .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 40px 0; border: 1px solid var(--accent-gold); }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        .image-gallery { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 40px; }
+        .image-gallery img { width: 100%; height: 250px; object-fit: cover; border-radius: 4px; }
+        .ref-link { color: var(--accent-gold); text-decoration: none; border-bottom: 1px solid transparent; }
+        .ref-link:hover { border-bottom: 1px solid var(--accent-gold); }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="episodes.html">Episodes</a>
+                <a href="hosts.html">Hosts</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+            <a href="index.html" class="logo"><img src="../images/THE PULPIT LOGO.jpeg" alt="The Pulpit Logo" style="height: 50px; width: auto;"></a>
+        </div>
+    </header>
+
+    <main>
+        <!-- EPISODE HEADER -->
+        <section class="detail-header">
+            <div class="container">
+                <span class="badge">Episode #11 • Music • 52 Mins</span>
+                <h1 style="font-family: 'Playfair Display'; font-size: 3.5rem; color: var(--accent-gold);">Afrobeats: The Global Takeover</h1>
+                <p style="font-size: 1.2rem; color: var(--text-secondary); max-width: 800px; margin-top: 20px;">
+                    We dive deep into how West African rhythm and soul became the world's most dominant sound in the 21st century.
+                </p>
+            </div>
+        </section>
+
+        <div class="container show-notes">
+            <!-- LEFT COLUMN: MAIN CONTENT -->
+            <article>
+                <section>
+                    <h2 style="font-family: 'Playfair Display'; margin-bottom: 20px;">Listen Now</h2>
+                    <audio controls style="width: 100%; filter: invert(1); margin-bottom: 40px;">
+                        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mpeg">
+                    </audio>
+                </section>
+
+                <section>
+                    <h2 style="font-family: 'Playfair Display'; margin-bottom: 20px;">Show Notes & Summary</h2>
+                    <p>In this episode, Sarah Nkosi sits down with industry experts to trace the evolution of Afrobeats. We look back at Fela Kuti's foundation and how it transformed into the chart-topping hits of Wizkid, Burna Boy, and Tems.</p>
+                    
+                    <h3 style="margin: 30px 0 15px; color: var(--accent-gold);">Key Discussion Points:</h3>
+                    <ol style="margin-left: 20px; line-height: 2;">
+                        <li>The Digital Transformation: From local radio to global streaming.</li>
+                        <li>The UK Connection: How the diaspora fueled the fire.</li>
+                        <li>Identity & Language: Singing in Pidgin and Yoruba for a global audience.</li>
+                    </ol>
+                </section>
+
+                <!-- VIDEO EMBED (MANDATORY) -->
+                <section>
+                    <h2 style="font-family: 'Playfair Display'; margin-top: 60px;">Watch the Interview</h2>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/P_X0f_50f8M" title="Afrobeats Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <figcaption style="font-style: italic; color: var(--text-secondary); text-align: center;">Extended visual interview with our special guests.</figcaption>
+                </section>
+
+                <!-- IMAGE GALLERY -->
+                <section>
+                    <h2 style="font-family: 'Playfair Display'; margin-top: 60px;">Behind The Scenes</h2>
+                    <div class="image-gallery">
+                        <figure>
+                            <img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?w=500" alt="Concert Crowd">
+                            <figcaption>The energy at Afrobeats festivals.</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=500" alt="Recording Studio">
+                            <figcaption>Inside our Lagos recording sessions.</figcaption>
+                        </figure>
+                    </div>
+                </section>
+            </article>
+
+            <!-- RIGHT COLUMN: SIDEBAR -->
+            <aside>
+                <div style="background: var(--bg-card); padding: 30px; border-radius: 8px; border: 1px solid var(--border); position: sticky; top: 100px;">
+                    <h3 style="color: var(--accent-gold); margin-bottom: 15px;">Resources</h3>
+                    <ul style="line-height: 2.5;">
+                        <li><a href="https://en.wikipedia.org/wiki/Afrobeats" target="_blank" class="ref-link">Wikipedia: Afrobeats History</a></li>
+                        <li><a href="https://en.wikipedia.org/wiki/Fela_Kuti" target="_blank" class="ref-link">Fela Kuti: The Originator</a></li>
+                        <li><a href="https://www.spotify.com" target="_blank" class="ref-link">Top Afrobeats Playlist</a></li>
+                    </ul>
+
+                    <div style="margin-top: 40px; border-top: 1px solid var(--border); padding-top: 20px;">
+                        <a href="episodes.html" style="color: var(--text-secondary); text-decoration: none;">← Back to Episodes</a>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer style="margin-top: 100px;">
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <div class="logo">🎙️ BEHIND THE PULPIT</div>
+                <p>Amplifying the voices of the next generation.</p>
+            </div>
+        </div>
+        <p class="copyright">© 2025 Behind the Pulpit. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

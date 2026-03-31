@@ -1,0 +1,244 @@
+{
+    "episodes": [
+        {
+            "id": 1,
+            "title": "The Underground Art Scene: Street Murals That Changed Cities",
+            "category": "Art & Culture",
+            "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=600",
+            "description": "From Johannesburg's graffiti revolution to Nairobi's digital street art - how artists are reclaiming urban spaces.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "duration": "42 mins",
+            "episode": "EP. 24",
+            "date": "March 20, 2026",
+            "guests": [
+                "Zara Nkosi",
+                "Kai Johnson"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300",
+                "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300"
+            ],
+            "summary": "Dive into the vibrant world of African street art. We explore how young artists are using walls as canvases to tell stories of resistance, identity, and hope. From the colorful murals of Soweto to the digital projections in Lagos, discover how art is transforming African cities."
+        },
+        {
+            "id": 2,
+            "title": "Crypto Kings: How Africans Are Building the Future of Money",
+            "category": "Technology",
+            "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600",
+            "description": "Bitcoin millionaires, blockchain startups, and the digital gold rush sweeping the continent.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "duration": "55 mins",
+            "episode": "EP. 23",
+            "date": "March 13, 2026",
+            "guests": [
+                "Marcus Adebayo",
+                "Nia Chen"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300",
+                "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300"
+            ],
+            "summary": "Africa is leading the global crypto revolution! We sit down with young entrepreneurs who turned small investments into life-changing fortunes. From mobile money in Kenya to crypto mining in South Africa, hear the wild stories of Africa's blockchain pioneers."
+        },
+        {
+            "id": 3,
+            "title": "The Fashion Moguls: From Market Stalls to Paris Runways",
+            "category": "Fashion & Business",
+            "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=600",
+            "description": "How African designers conquered global fashion and built billion-dollar brands from nothing.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "duration": "48 mins",
+            "episode": "EP. 22",
+            "date": "March 6, 2026",
+            "guests": [
+                "Amara Okafor",
+                "Jelani Mensah"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300",
+                "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300"
+            ],
+            "summary": "From Lagos markets to Paris Fashion Week! We trace the incredible journeys of African designers who started with sewing machines in tiny rooms and now dress celebrities worldwide. Discover the business savvy and creativity driving Africa's fashion revolution."
+        },
+        {
+            "id": 4,
+            "title": "Gaming Gods: The Rise of African Esports Champions",
+            "category": "Gaming & Sports",
+            "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
+            "description": "How African gamers became global champions and built esports empires worth millions.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "duration": "51 mins",
+            "episode": "EP. 21",
+            "date": "February 27, 2026",
+            "guests": [
+                "Tariq Hassan",
+                "Zola Ndlovu"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300",
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300"
+            ],
+            "summary": "South African teams dominating League of Legends, Nigerian FIFA champions, and the rise of Africa's gaming scene! We talk to pro gamers who went from internet cafes to million-dollar tournaments. Discover how gaming is creating jobs and changing lives across the continent."
+        },
+        {
+            "id": 5,
+            "title": "The Nollywood Hustle: Behind the Scenes of Africa's Film Empire",
+            "category": "Entertainment",
+            "image": "https://images.unsplash.com/photo-1489599735734-79b4dfe3e5c3?w=600",
+            "description": "From script to screen: the wild world of African cinema and the moguls building Hollywood-sized dreams.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "duration": "46 mins",
+            "episode": "EP. 20",
+            "date": "February 20, 2026",
+            "guests": [
+                "Ngozi Eze",
+                "Simba Kachingwe"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300",
+                "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300"
+            ],
+            "summary": "Nollywood produces more films than Hollywood! We go behind the scenes with directors, producers, and actors who are creating Africa's biggest entertainment industry. From low-budget thrillers to Netflix hits, hear the stories of cinematic innovation and cultural impact."
+        },
+        {
+            "id": 6,
+            "title": "Drone Lords: How Africans Are Revolutionizing Agriculture from the Sky",
+            "category": "Innovation",
+            "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600",
+            "description": "Precision farming, crop monitoring, and the tech transforming African agriculture.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "duration": "44 mins",
+            "episode": "EP. 19",
+            "date": "February 13, 2026",
+            "guests": [
+                "Dr. Amina Hassan",
+                "Kofi Boateng"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300"
+            ],
+            "summary": "Drones are changing African farming forever! We explore how young innovators are using aerial technology to increase crop yields, monitor soil health, and fight pests. From Ghana's cocoa farms to Kenya's tea plantations, discover the future of smart agriculture."
+        },
+        {
+            "id": 7,
+            "title": "The Comedy Kings: Africa's Funniest Exports",
+            "category": "Comedy & Entertainment",
+            "image": "https://images.unsplash.com/photo-1541532713592-79a0317b6b77?w=600",
+            "description": "From Trevor Noah to Lupita's stand-up specials - how African comedians conquered the world.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "duration": "39 mins",
+            "episode": "EP. 18",
+            "date": "February 6, 2026",
+            "guests": [
+                "Jelani Brown",
+                "Fatima Diallo"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300",
+                "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300"
+            ],
+            "summary": "African comedy is taking over! We sit down with rising stars and established comedians about the craft of making people laugh. From observational humor about African life to political satire, discover how comedy is becoming Africa's biggest cultural export."
+        },
+        {
+            "id": 8,
+            "title": "The Motorcycle Taxi Revolution: Riders Who Built Empires",
+            "category": "Business & Transportation",
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+            "description": "From boda boda riders to CEOs: the entrepreneurs turning two wheels into million-dollar businesses.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "duration": "43 mins",
+            "episode": "EP. 17",
+            "date": "January 30, 2026",
+            "guests": [
+                "Samuel Kiprop",
+                "Grace Wanjiku"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300",
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300"
+            ],
+            "summary": "The motorcycle taxi business is booming! We talk to riders who started with one bike and built fleets worth millions. From Uganda's boda boda networks to Nigeria's okada empires, discover how these entrepreneurs are solving transportation challenges and creating jobs."
+        },
+        {
+            "id": 9,
+            "title": "The Influencer Empire: Social Media Millionaires from Africa",
+            "category": "Digital Business",
+            "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600",
+            "description": "How African creators built massive followings and turned likes into luxury lifestyles.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "duration": "47 mins",
+            "episode": "EP. 16",
+            "date": "January 23, 2026",
+            "guests": [
+                "Zara Ahmed",
+                "David Nkomo"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300",
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300"
+            ],
+            "summary": "Social media is creating millionaires overnight! We interview influencers who went from zero followers to sold-out merch lines. From beauty bloggers in Lagos to fitness coaches in Johannesburg, hear how African creators are dominating the digital space and building personal brands."
+        },
+        {
+            "id": 10,
+            "title": "The Recycling Revolution: Turning Trash into Treasure",
+            "category": "Sustainability",
+            "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600",
+            "description": "How African innovators are building businesses from waste and cleaning up cities in the process.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+            "duration": "41 mins",
+            "episode": "EP. 15",
+            "date": "January 16, 2026",
+            "guests": [
+                "Michael Adeyemi",
+                "Lola Thompson"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300",
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300"
+            ],
+            "summary": "From plastic bottle businesses to electronic waste empires! We explore how young Africans are turning environmental problems into profitable solutions. Meet the entrepreneurs cleaning up cities while building sustainable businesses that employ thousands."
+        },
+        {
+            "id": 11,
+            "title": "The Sports Betting Kings: From Gamblers to Billionaires",
+            "category": "Business & Gambling",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600",
+            "description": "The controversial rise of Africa's sports betting industry and the moguls who built it.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+            "duration": "53 mins",
+            "episode": "EP. 14",
+            "date": "January 9, 2026",
+            "guests": [
+                "Tony Okoye",
+                "Sarah Mthembu"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300",
+                "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300"
+            ],
+            "summary": "Sports betting is a multi-billion dollar industry in Africa! We dive into the controversial world of online gambling, talking to CEOs who started with small shops and built digital empires. From Nigeria's betting giants to South Africa's regulated markets, explore the business and social impact."
+        },
+        {
+            "id": 12,
+            "title": "The Sneaker Empire: Africa's Streetwear Revolution",
+            "category": "Fashion & Street Culture",
+            "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600",
+            "description": "How African sneakerheads built resale empires and created a continent-wide streetwear movement.",
+            "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+            "duration": "45 mins",
+            "episode": "EP. 13",
+            "date": "January 2, 2026",
+            "guests": [
+                "Jamal Washington",
+                "Nomsa Zulu"
+            ],
+            "guestImages": [
+                "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300",
+                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300"
+            ],
+            "summary": "Sneaker culture is huge in Africa! We talk to entrepreneurs who turned their passion for rare kicks into million-dollar businesses. From resale shops in Accra to online stores shipping worldwide, discover how Africa's sneaker game is changing global streetwear."
+        }
+    ]
+}
